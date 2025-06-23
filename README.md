@@ -1,5 +1,7 @@
 ## **NetfliQuery: SQL-Powered Dissection of Netflix**
 
+![NetfliQuery PNG1(1)(1)](https://github.com/user-attachments/assets/c590b4dd-7a5a-403a-9847-c2479134dcd3)
+
 ### **Overview**
 
 This project constitutes a detailed and methodical exploration of Netflix's catalog of movies and television shows, leveraging the power of SQL for data extraction, transformation, and insight generation. The primary objective is to derive actionable business intelligence from the dataset by addressing a series of analytically driven queries.
