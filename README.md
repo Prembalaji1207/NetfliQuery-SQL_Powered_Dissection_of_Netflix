@@ -1,4 +1,4 @@
-## **** Netflix Unplugged: SQL-Powered Dissection****
+## **** NetfliQuery: SQL-Powered Dissection of Netflix****
 
 ### **Overview**
 
