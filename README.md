@@ -1,4 +1,4 @@
-**NetfliQuery: SQL-Powered Dissection of Netflix**
+## **NetfliQuery: SQL-Powered Dissection of Netflix**
 
 ### **Overview**
 
