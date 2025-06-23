@@ -1,6 +1,6 @@
 ## **NetfliQuery: SQL-Powered Dissection of Netflix**
 
-![NetfliQuery PNG1(1)(1)](https://github.com/user-attachments/assets/c590b4dd-7a5a-403a-9847-c2479134dcd3)
+![NetfliQuery PNG1](https://github.com/user-attachments/assets/39b11e1d-36b3-4623-a309-92e656a4fdb1)
 
 ### **Overview**
 
